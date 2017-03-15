@@ -1,0 +1,3 @@
+rootProject.name = 'MAT283HW1'
+
+include ':app'
